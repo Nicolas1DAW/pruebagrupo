@@ -1,1 +1,9 @@
-ECHO est  activado.
+h1 {
+    color: pink;
+    background-color: grey;
+    border: 1px solid yellowgreen;
+  }
+  
+  p {
+    color: blue;
+  }
