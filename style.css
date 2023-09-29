@@ -1,11 +1,10 @@
-h1{
+ECHO est� activado.
+h1 {
+    color: blue;
+    background-color: yellow;
+    border: 1px solid black;
+  }
+  
+  p {
     color: red;
-    background-color: red;
-
-}
-
-p{
-
-    font: 12px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-}
+  }
