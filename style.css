@@ -1,1 +1,11 @@
-ECHO est  activado.
+h1{
+    color: red;
+    background-color: red;
+
+}
+
+p{
+
+    font: 12px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
